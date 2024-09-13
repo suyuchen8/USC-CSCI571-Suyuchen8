@@ -7,8 +7,8 @@
 		content: "";
 		position: fixed;
 
-		width: 130%;
-		height: 130%;
+		width: 1680px;
+		height: 100%;
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-color: rgba(249, 254, 254, 0.8);
@@ -29,6 +29,7 @@
 	padding-top: 50px;
 	font-family: sans-serif;
 	font-size: 13px;
+	width: 1680px;
 }
 .topOption span{
 	float: right;
@@ -113,6 +114,7 @@ span.line3{
 	color: rgba(0, 0, 0, 0.458);
 	font-size: 13px;
 	line-height: 1.4;
+	width: 1680px;
 }
 
 .featTitle{
@@ -130,6 +132,7 @@ span.line3{
 	padding-left: 250px;
 	padding-right: 200px;
 	padding-bottom: 152px;
+	width: 1680px;
 	text-align: center;
 }
 .quoteAuthor{
@@ -143,6 +146,7 @@ span.line3{
 	padding-right:250px;
 	column-count: 3;
 	column-gap: -10px;
+	width: 1680px;
 }
 
 .priceOptions{
@@ -192,6 +196,7 @@ span.line3{
 	padding-bottom: 190px;
 	text-align: center;
 	font-size: 13px;
+	width: 1680px;
 }
 
 .tryline1{
@@ -210,6 +215,7 @@ span.line3{
 	font-size: 18px;
 }
 .socialMediaLinks{
+	width: 1680px;
 	padding-top: 80px;
 	height:300px;
 	background-color: rgb(4, 25, 48);
