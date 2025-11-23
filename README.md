@@ -1,4 +1,4 @@
 * [Link to Assignment 1](https://suyuchen8.github.io/USC-CSCI571-Suyuchen8/Assignment_1/assignment1.html)
 * [Link to Assignment 2](https://myfirstpython-436504.wl.r.appspot.com)  |  [Link to assignment 2 Cloud](https://api.tomorrow.io/v4/timelines?location=34.0522,-118.2437&fields=temperature,humidity,windSpeed,pressureSeaLevel&timesteps=1h,1d&units=imperial&startTime=now&apikey=ERoIgX5eJlI0rjDbkmTtVhZyHljJXvg4)
 * [Link to Assignment 3](https://csci571-hw3-final-submission.wl.r.appspot.com/)  |  [Link to assignment 3 Cloud](https://api.tomorrow.io/v4/timelines?location=34.0522,-118.2437&fields=temperature,humidity,windSpeed,pressureSeaLevel&timesteps=1h,1d&units=imperial&startTime=now&apikey=ERoIgX5eJlI0rjDbkmTtVhZyHljJXvg4)
-* [Link to Assignment 4 Video](https://github.com/suyuchen8/USC-CSCI571-Suyuchen8/blob/534e6721df705aa21ac73b903362972c1b159754/Assignment%204%20Demo.mp4))
+* [Link to Assignment 4 Video](https://github.com/suyuchen8/USC-CSCI571-Suyuchen8/blob/534e6721df705aa21ac73b903362972c1b159754/Assignment%204%20Demo.mp4)
